@@ -11,6 +11,7 @@ Below you will find our current set of published standards and policies.
 
 * 🔐 [CSAE Safety Standards](./csae/)
 * 🎟️ [Pass Master Scanner – Privacy Policy](./pass-master/)
+* 🦺 [Calpro – Privacy Policy](./calpro/)
 
 ---
 
